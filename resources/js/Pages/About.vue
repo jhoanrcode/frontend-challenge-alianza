@@ -15,7 +15,7 @@ import { Head } from '@inertiajs/vue3';
 				<li>📱 <b>Telefono:</b> 3203645490</li>
 				<li>📧 <b>Email:</b> <a href="mailto:joria94@hotmail.com" class="text-indigo-600">joria94@hotmail.com</a></li>
 				<li>🛠️ <b>Github:</b> 
-					<a href="https://github.com/jhoanrcode/frontend-hotel-decameron" class="text-indigo-600" target="_blank"> Repositorio Proyecto</a>
+					<a href="https://github.com/jhoanrcode/frontend-challenge-alianza" class="text-indigo-600" target="_blank"> Repositorio Proyecto</a>
 				</li>
 			</ul>
 		</div>
