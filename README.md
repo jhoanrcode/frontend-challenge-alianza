@@ -37,9 +37,22 @@ Configuración del proyecto:
    ```
    
 5. **Ejecutar librerias framework Vue**: Ejecute librerias con `npm install` y `npm run dev`.
+   ```
+   npm install 
+   ```
+   ```
+   npm run dev
+   ```
 
 6. **Ejecutar el servidor**: 
 
    ```
    php artisan serve
    ```
+
+### Como ingresar y navegar:
+- Primero deberas crear una cuenta para poder realizar autenticacion de usuarios `/register`
+- Si ya cuentas con un usuario realiza el login: `/login`
+- Crea empleados: `/empleados`
+- Asociar empleados a cargos: `/cargos`
+   
